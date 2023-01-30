@@ -1,0 +1,37 @@
+h1 {
+  background-color: #E83157;
+  width: fit-content;
+  padding: 1rem;
+}
+
+article {
+  background-color: #77C4D3;
+  width: 70rem;
+  padding: 5rem;
+}
+
+main {
+  background-color: #DAEDE3;
+  padding: 5rem;
+}
+
+h1, h2, h3, p {
+  color: white;
+}
+
+a {
+  color: black;
+}
+
+p {
+  margin-bottom: 3rem;
+}
+
+figcaption {
+  color: white;
+  text-align: center;
+}
+
+#quote {
+  text-align: center;
+}
